@@ -1,4 +1,4 @@
-![Screenshot]([https://i.imgur.com/tvojafotografija.png](https://i.imgur.com/3lDMO8l.png))
+![](https://i.imgur.com/3lDMO8l.png)
 
 # Paymenter Announcements Module
 
