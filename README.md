@@ -1,3 +1,5 @@
+![Screenshot]([https://i.imgur.com/tvojafotografija.png](https://i.imgur.com/3lDMO8l.png))
+
 # Paymenter Announcements Module
 
 A custom module for managing announcements within the Paymenter system, now with image upload support.
